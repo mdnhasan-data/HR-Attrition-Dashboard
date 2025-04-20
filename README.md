@@ -14,7 +14,8 @@ Attrition Rate (%)
 
 Average Employee Age
 
-Visual Insights
+
+Visual Insights:
 
 Gender-wise employee distribution
 
@@ -26,13 +27,15 @@ Job role-based attrition (Top 5)
 
 Marital status and age group-wise attrition
 
-Interactive Slicers (Filters)
+
+Interactive Slicers (Filters):
 
 Department
 
 Education Field
 
-Design Highlights
+
+Design Highlights:
 
 Clean light-blue themed layout
 
@@ -42,10 +45,12 @@ Consistent font and formatting
 
 Responsive slicers affecting all charts
 
+
 📁 Files Included
 HR Attrition Dashboard Assignment (Solution).xlsx – Final Excel Dashboard with slicers and visuals
 
 Dataset included in a separate sheet
+
 
 🛠 Tools Used
 Microsoft Excel
@@ -59,6 +64,7 @@ Slicers
 Conditional Formatting
 
 Chart Customization
+
 
 📈 Insights Extracted
 Highest attrition observed in Sales and Research & Development departments.
